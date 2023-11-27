@@ -1,0 +1,12 @@
+Totalt på prov= 28
+minst ha= 14
+
+js1 = 3p
+js2 = 3p
+js3 = 3p
+js4 = 3p
+js5 = 4p
+js6 = 3p
+
+
+Min total= 19p
